@@ -6,7 +6,7 @@ The aim of the project is to implement a serverless, microservice-driven web app
 
 The Chatbot service provides restaurant suggestions based on cuisine preferences given to the chatbot through conversation. 
 
-Tools & AWS Services Used: [DynamoDB](https://aws.amazon.com/dynamodb/), [ElasticSearch](https://aws.amazon.com/elasticsearch-service/), [Lambda](https://aws.amazon.com/lambda/), [Lex](https://aws.amazon.com/lex/), [S3](https://aws.amazon.com/s3/), [SQS](https://aws.amazon.com/sqs/), [SNS](https://aws.amazon.com/sns/), [Swagger](https://swagger.io/), [Yelp Developer API](https://www.yelp.com/developers)  
+Tools & AWS Services Used: [API Gateway](https://aws.amazon.com/api-gateway/), [DynamoDB](https://aws.amazon.com/dynamodb/), [ElasticSearch](https://aws.amazon.com/elasticsearch-service/), [Lambda](https://aws.amazon.com/lambda/), [Lex](https://aws.amazon.com/lex/), [S3](https://aws.amazon.com/s3/), [SQS](https://aws.amazon.com/sqs/), [SNS](https://aws.amazon.com/sns/), [Swagger](https://swagger.io/), [Yelp Developer API](https://www.yelp.com/developers)  
 
 
 ## System Architecture & Workflow
