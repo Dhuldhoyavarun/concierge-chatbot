@@ -6,6 +6,9 @@ The aim of the project is to implement a serverless, microservice-driven web app
 
 The Chatbot service provides restaurant suggestions based on cuisine preferences provide to the chatbot through conversation. 
 
-System Architecture
+## System Architecture
 
-[Architecture Diagram](https://github.com/Dhuldhoyavarun/concierge-chatbot/blob/main/Lambda_functions/Architecture.PNG)
+<p align="center">
+  <img src="https://github.com/Dhuldhoyavarun/concierge-chatbot/blob/main/Lambda_functions/Architecture.PNG" title="Architecture">
+</p>
+
