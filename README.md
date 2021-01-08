@@ -9,6 +9,6 @@ The Chatbot service provides restaurant suggestions based on cuisine preferences
 ## System Architecture
 
 <p align="center">
-  <img src="https://github.com/Dhuldhoyavarun/concierge-chatbot/blob/main/Lambda_functions/Architecture.PNG" title="Architecture">
+  <img src="https://github.com/Dhuldhoyavarun/concierge-chatbot/blob/main/Lambda_functions/Architecture.PNG" width='200' title="Architecture">
 </p>
 
