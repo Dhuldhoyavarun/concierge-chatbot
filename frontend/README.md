@@ -3,7 +3,7 @@
 ## About ##
 
 Frontend starter repository for Chatbot-Concierge Assignment of the Cloud Computing & Big Data
-class at Columbia University and New York University. Developed by (https://github.com/ndrppnc "Andrei Papancea")
+class at Columbia University and New York University. Developed by [Andrei Papancea](https://github.com/ndrppnc)
 
 ## Usage ##
 
