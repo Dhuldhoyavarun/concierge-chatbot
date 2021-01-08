@@ -12,3 +12,4 @@ The Chatbot service provides restaurant suggestions based on cuisine preferences
   <img src="https://github.com/Dhuldhoyavarun/concierge-chatbot/blob/main/Lambda_functions/Architecture.PNG" width='700' title="Architecture">
 </p>
 
+Tools & AWS Services Used: [DynamoDB](https://aws.amazon.com/dynamodb/), [ElasticSearch](https://aws.amazon.com/elasticsearch-service/), [Lambda](https://aws.amazon.com/lambda/), [Lex](https://aws.amazon.com/lex/), [S3](https://aws.amazon.com/s3/), [SQS](https://aws.amazon.com/sqs/), [SNS](https://aws.amazon.com/sns/), [Swagger](https://swagger.io/)  
